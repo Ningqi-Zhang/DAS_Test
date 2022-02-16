@@ -2,7 +2,7 @@
 title: "DAS_skills_W4lab1"
 author: "Student Number:2646273"
 date: "2022/2/16"
-output: html_document
+output: github_document 
 ---
 
 Hello World!
